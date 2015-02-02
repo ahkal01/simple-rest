@@ -1,0 +1,4 @@
+GROUP-NAME:gets
+PAIR-NAME:get1-json
+GET /vapi/alain/rest/customer/Clark
+
