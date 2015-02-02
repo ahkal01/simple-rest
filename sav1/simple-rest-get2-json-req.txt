@@ -1,0 +1,4 @@
+GROUP-NAME:gets
+PAIR-NAME:get2-json
+GET /vapi/alain/rest/customer/Martin
+
