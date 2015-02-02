@@ -1,0 +1,6 @@
+GROUP-NAME:posts
+PAIR-NAME:post2
+POST /ToDoRESTService/rest/customer
+Date:Thu, 24 Feb 2014 12
+
+{"name":"Clark","address":"Slough", "trade": "12-15-2013", "settle": "12-19-2013"}
