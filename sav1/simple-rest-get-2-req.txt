@@ -1,0 +1,4 @@
+GROUP-NAME:gets
+PAIR-NAME:get-2
+GET /rest/customer/{user}
+
