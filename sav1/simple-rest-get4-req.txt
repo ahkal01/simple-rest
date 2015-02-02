@@ -1,0 +1,4 @@
+GROUP-NAME:gets
+PAIR-NAME:get4
+GET /vapi/alain/rest/customer?name=Smith&address=Windsor
+
