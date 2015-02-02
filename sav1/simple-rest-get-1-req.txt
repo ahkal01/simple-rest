@@ -1,0 +1,6 @@
+GROUP-NAME:gets
+PAIR-NAME:get-1
+GET /ToDoRESTService/rest/customer?name=Clark
+myheader1:val1
+myheader2:val2
+
