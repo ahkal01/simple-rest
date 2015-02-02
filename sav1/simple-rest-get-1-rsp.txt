@@ -1,0 +1,9 @@
+200
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customer>
+   <name>Clark</name>
+   <address>Slough</address>
+   <trade>12-15-2013</trade>
+   <settle>12-19-2013</settle>
+</customer>
